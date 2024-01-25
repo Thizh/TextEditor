@@ -6,18 +6,18 @@ TextEditor is an in-development project aimed at creating a user-friendly and fe
 
 ## Installation
 
-To get started with the React Text Editor development environment, follow these simple steps:
+To get started with the TextEditor development environment, follow these simple steps:
 
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/react-text-editor.git
+    git clone https://github.com/Thizh/TextEditor.git
     ```
 
 2. **Navigate to the project directory:**
 
     ```bash
-    cd react-text-editor
+    cd rtext-editor
     ```
 
 3. **Install dependencies:**
@@ -32,7 +32,7 @@ To get started with the React Text Editor development environment, follow these 
     npm start
     ```
 
-The React Text Editor will be accessible at `http://localhost:3000` in your preferred web browser.
+The TextEditor will be accessible at `http://localhost:3000` in your preferred web browser.
 
 ## Contact Information
 
