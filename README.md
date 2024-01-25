@@ -2,7 +2,7 @@
 
 ## Overview
 
-React Text Editor is an in-development project aimed at creating a user-friendly and feature-rich text editor using React.js. This project is currently in its early stages of development, and your feedback and contributions are highly appreciated.
+TextEditor is an in-development project aimed at creating a user-friendly and feature-rich text editor using React.js. This project is currently in its early stages of development, and your feedback and contributions are highly appreciated.
 
 ## Installation
 
