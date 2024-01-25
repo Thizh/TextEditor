@@ -17,7 +17,7 @@ To get started with the TextEditor development environment, follow these simple 
 2. **Navigate to the project directory:**
 
     ```bash
-    cd rtext-editor
+    cd text-editor
     ```
 
 3. **Install dependencies:**
