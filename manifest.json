@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "TextEditor",
+  "name": "Web-Based Text Editor",
   "icons": [
     {
       "src": "favicon.ico",
